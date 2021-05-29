@@ -1,0 +1,2 @@
+# pywhatkit
+Algunas funcionalidades útiles
